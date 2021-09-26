@@ -12,7 +12,7 @@ export const App = () => {
         <div className="app_wrapper">
             <Chat client={client} theme='team light'>
                 <ChannelListContainer>
-
+                    <h1>HELLO</h1>
                 </ChannelListContainer>
                 <ChannelContainer>
                     
